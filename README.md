@@ -1,12 +1,11 @@
 # SCRAPING REAL ESTATES LISTINGS
 
 This is a python script that is building a basic ETL pipeline to read data from a source, transform
-this data, then load the output into a prescribed location. The etl_pipeline.py file has been documented for a walk through this project.
+this data, then load the output into a prescribed location. The etl pipeline.py file has been documented for a walk through this project.
 
 ## Getting Started
 
-Download the project unto your local device. Run the script file in a python integrated development envirnment (IDE) or in your 
-python virtual environment.
+Download the project unto your local device. Run the script file in a python integrated development envirnment (IDE) or in your python virtual environment.
 
 ### Prerequisites
 
@@ -14,7 +13,7 @@ First and foremost, use the requirements.txt file to install the dependencies ne
 
 
 ### Installing
-Start by opening your terminal and going into your python virtual environment to install the dependcies through the requirements.txt file. After, navigate to the etl_pipeline.py to run it in the python vitual environment.
+Start by opening your terminal and going into your python virtual environment to install the dependcies through the requirements.txt file. After, navigate to the etl pipeline.py to run it in the python vitual environment.
 
 OR
 

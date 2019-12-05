@@ -1,4 +1,4 @@
-# SCRAPING REAL ESTATES LISTINGS
+# Extract Transform and Load
 
 This is a python script that is building a basic ETL pipeline to read data from a source, transform
 this data, then load the output into a prescribed location. The etl pipeline.py file has been documented for a walk through this project.

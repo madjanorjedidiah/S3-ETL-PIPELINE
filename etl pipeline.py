@@ -91,8 +91,8 @@ def main():
     print ('done2')
     ggzzip = json_gzip(use)
     parquettss = parquett(use)
-    upload_file(ggzzip, 'blossom-data-eng-jedidiah')
-    upload_file(parquettss, 'blossom-data-eng-jedidiah')
+    upload_file(ggzzip, bucket)
+    upload_file(parquettss, bucket)
     
     
 if __name__ == '__main__':
